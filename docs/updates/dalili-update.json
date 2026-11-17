@@ -1,0 +1,15 @@
+{
+  "applicationId": "sa.alfoud.dalilililbayt.mobile",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "minimumSupportedVersionCode": 1,
+  "mandatory": false,
+  "releaseNotesAr": "نقل عبارة الدعاء إلى الترويسة بجوار اسم التطبيق وتحسين عرضها على الجوال.",
+  "apkUrl": "https://github.com/abdualfoud5-maker/ALFOUD-Android-Downloads/releases/download/dalili-1.0.8/Dalili-Lilbayt-1.0.8-code9.apk",
+  "sha256": "13bf747762c6ec74572767ec6fe73904c9f75739c12860cba5f98ac7c60568c6",
+  "apkSize": 2135787,
+  "signatureAlgorithm": "SHA256withRSA",
+  "signature": "ATWlZSUEE/f+Mk50fDsnaf3Z9pTfyz9EqKj1dNZhDRBuPUm4mBRapPLFFFyJ3/8/zVuSwpB6otDsE7usLiXzFoFcExfAPIIkcIg3ptLlzuNV5gi5TiU6BX2ikNwpDAUoINDJmBu7LlU82dRs43brySheq18lpPLMalvVdA81+FaNbVwH0d/qcHjdEC01o2hZTbS9VhPfmGoiDannIT7nlvaAhkOPYeR7sNGW1iGS4udpbbkR8i4n9oAHx/PXLUm+5m9zlsLlMFj49YUB0d1WV146s0WK27vdFVf7Z9B2Xso73t3ZUqJgcAINa5uKZ+axUap0jZl1wCdFYDLoOuEp7vv+Yh1qiUOT7Y/szEaKxa8l4X9deHFySPydID0AuWNnFg0RaXSKOdUfqlucXeJktlCzKZLSsrEeZG5DCDCBG8h6mCYJ8V7tfc1Mp3WCpnRnJB13kHWRDQ58TsQ06tMhawqZxUAU5QYzj8KNNqktxBLRFSxQvDW2O1XAwhEzX/4b",
+  "publicationReady": true,
+  "channelEnabled": true
+}
