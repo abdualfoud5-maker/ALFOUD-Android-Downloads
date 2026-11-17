@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>تحميل دليلي للبيت</title><style>body{font-family:system-ui,sans-serif;text-align:center;max-width:35rem;margin:12vh auto;padding:1rem;line-height:1.9}a{color:#1356aa}</style></head>
+<body><h2>تحميل دليلي للبيت</h2><p id="status">جارٍ فتح رابط التحميل الرسمي...</p><p><a id="link" href="#">رابط التحميل</a></p>
+<script>
+(async function(){try{const response=await fetch('./updates/dalili-update.json',{cache:'no-store'});if(!response.ok)throw new Error('manifest');const data=await response.json();const url=new URL(data.apkUrl);if(url.protocol!=='https:'||url.hostname!=='github.com'||!url.pathname.includes('/ALFOUD-Android-Downloads/releases/download/'))throw new Error('url');document.getElementById('link').href=url.href;window.location.replace(url.href);}catch(e){document.getElementById('status').textContent='تعذّر فتح التحميل تلقائيًا. حاول لاحقًا أو افتح صفحة الإصدارات الرسمية.';document.getElementById('link').href='https://github.com/abdualfoud5-maker/ALFOUD-Android-Downloads/releases';document.getElementById('link').textContent='صفحة الإصدارات';}})();
+</script></body></html>
