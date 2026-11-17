@@ -1,0 +1,15 @@
+{
+  "applicationId": "sa.alfoud.baytrequests.mobile",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "minimumSupportedVersionCode": 1,
+  "mandatory": false,
+  "releaseNotesAr": "نقل عبارة الدعاء إلى الترويسة بجوار اسم التطبيق وتحسين عرضها على الجوال.",
+  "apkUrl": "https://github.com/abdualfoud5-maker/ALFOUD-Android-Downloads/releases/download/bayt-requests-1.0.8/Bayt-Requests-1.0.8-code9.apk",
+  "sha256": "80a9c3e2108a6da7a4cad40cd29f26f08b4264df47913d8e25b160b2777c0a7c",
+  "apkSize": 672945,
+  "signatureAlgorithm": "SHA256withRSA",
+  "signature": "foJMiZ+mQ71imBlYes8e9QieezLtqM8xccxOeeLgWhThpkxic8olV+hamRQDfmC/4kUqjqzgO5jq08BPKB/G3vlshXMcnb+U+b7Sm8WdA6eDvmn6n/b2R9PLriaiN7GYp25dLoopTNxOcqQoomqtqmXdkuaHbh1JLkMAhZEVTn3QWUgleTBeG7z8kAjMEsMFDWXzid/AsxtnEHhTqCNDqplk4rvCr52CbpxZW8EzbLZSvNp6dnstpnq7pURPLL+h9quBaXinOWQle6g7i/yH58syaafJUIaxbL/gBOtCTrhF897mp7hMUkBTWFzZcfqhszAqlA8kAh1AOkPTHr4fjQdvZgX9wGTtD55lPbjDpIqtxOkfJS1jZAFABT7uurXvM9+rOe0ykvu5yYBJQ+oLPXtL4+b/qKf6Fd7tjz2GUI7pOzBiMmMqrVsPQKyVakMrQLlyCdQm07HAoDYKcBvPOQKwQJutrqOc2ENlJ9IAD0FhSozd2fsO56d1gJT0lW55",
+  "publicationReady": true,
+  "channelEnabled": true
+}
